@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="wsINDAABIN.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="INDAABINUsr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">anaya@col.gob.mx</Value>
+    </Setting>
+    <Setting Name="INDAABINPwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pE0PL3*.76603</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
